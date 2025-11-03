@@ -1,3 +1,7 @@
+footer span {
+color: #c0c0c0;
+font-weight: bold;
+}
 body {
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 background: linear-gradient(135deg, #242424, #4b4b4b);
