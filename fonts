@@ -1,1 +1,9 @@
+@font-face {
+  font-family: 'Railroad Gothic ATF';
+  src: url('fonts/RailroadGothicATF-Bold.woff2') format('woff2'),
+       url('fonts/RailroadGothicATF-Bold.woff') format('woff'),
+       url('fonts/RailroadGothicATF-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
 
