@@ -110,3 +110,7 @@ footer span {
 img {
   filter: none !important;
 }
+
+.allcaps {
+  text-transform: uppercase;
+}
